@@ -1,0 +1,1 @@
+- What is primitively recursive function? Why is it constructed using for loops?
