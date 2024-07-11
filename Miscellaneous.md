@@ -1,4 +1,6 @@
 - What is CAP theorem?
+- What is Actor Model? Which Programming Language Introduced it?
 - What is Byzantine General Problem?
 - What are the applications of bloom filter?
 - What are the approaches to order a directed acyclic graphs?
+- What are the major highlights if Rust Programming Language?
