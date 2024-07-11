@@ -1,4 +1,4 @@
 - What is CAP theorem?
+- What is Byzantine General Problem?
 - What are the applications of bloom filter?
-- How can we construct an inverse bloom filter?
 - What are the approaches to order a directed acyclic graphs?
