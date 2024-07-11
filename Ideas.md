@@ -1,0 +1,1 @@
+- Who invented self stablisation theorem? How is it connected to distributed systems?
