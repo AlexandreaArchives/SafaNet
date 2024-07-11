@@ -1,1 +1,2 @@
 - Who invented self stablisation theorem? How is it connected to distributed systems?
+- Who invented Bakery algorithm? How is it connected to concurrency control?
