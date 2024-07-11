@@ -8,3 +8,7 @@
 - What are the applications of bloom filter?
 - What are the approaches to order a directed acyclic graphs?
 - What are the major highlights if Rust Programming Language?
+- What are Verkle Trees and which Blockchain Protocol uses them?
+- What are the major highlights of Honey Badger Consensus Algorithm?
+- What is Homomorphic Encryption?
+- What is Differential Privacy?
