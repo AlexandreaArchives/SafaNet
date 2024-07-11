@@ -1,4 +1,8 @@
 - What is CAP theorem?
+- What is Backpropagation? 
+- What is Support Vector Machine? Who invented it?
+- What are the core components of Large Langauge Models?
+- Who invented Generative Adversarial Neural Networks?
 - What is Actor Model? Which Programming Language Introduced it?
 - What is Byzantine General Problem?
 - What are the applications of bloom filter?
