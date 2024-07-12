@@ -1,5 +1,6 @@
 - What is CAP theorem?
-- What is Backpropagation? 
+- What are different database scalability approaches?
+- What is Backpropagation? Who are the inventors of this algorithm?
 - What is Support Vector Machine? Who invented it?
 - What are the core components of Large Langauge Models?
 - Who invented Generative Adversarial Neural Networks?
